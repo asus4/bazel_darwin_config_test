@@ -1,0 +1,5 @@
+build --apple_platform_type=macos
+build --cpu=darwin
+# build --cpu=darwin_x86_64
+
+build --announce_rc
